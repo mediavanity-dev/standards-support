@@ -12,3 +12,5 @@ p{margin:0 0 12px}
 .mute{color:var(--mute)}
 a{color:var(--acc)}
 .foot{margin-top:40px;padding-top:16px;border-top:1px solid var(--line)}
+.badge{margin:4px 0 20px}
+.badge img{display:block;height:54px;width:auto}
